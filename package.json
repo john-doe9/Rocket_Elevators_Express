@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "d": "^1.0.2",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  },
+  "name": "rocket_elevators_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-doe9/Rocket_Elevators_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-doe9/Rocket_Elevators_Express/issues"
+  },
+  "homepage": "https://github.com/john-doe9/Rocket_Elevators_Express#readme",
+  "description": ""
+}
