@@ -6,7 +6,7 @@ app.listen(port, () => {
   console.log(` server listening on port ${port} `)
 })
 
-// 🏗️ GET - /hello (Returns "Hello World!")
+//  GET - /hello (Returns "Hello World!")
 app.get("/hello", (req, res) => {
     res.send("Hello World!");
 });
