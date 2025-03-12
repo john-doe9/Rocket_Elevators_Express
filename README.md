@@ -32,10 +32,24 @@ Why It Matters: Your business is growing, and you need a backend system that can
 -How Node.js Helps:
    Can handle 100 or 100,000 users without performance loss.
    Built to support future expansions, like adding new services or automation.
-   Cloud-friendly → Easily integrates with modern business software.
+   Cloud-friendly - Easily integrates with modern business software.
 
 3. Cost-Effective & Easy Maintenance 
 Why It Matters: Time is money, and Rocket Elevators needs a cost-efficient, low-maintenance solution that will work long-term.
 -How Express Helps:
    Reduces development time; leading to faster project delivery.
    Uses JavaScript for frontend & backend; Easier maintenance, lower costs.
+
+
+CRUD stands for Create, Read, Update, and Delete, which are the four main operations performed in a database or API.
+
+CRUD Operations
+ Create (POST) - Add new data
+ Read (GET) - Fetch data
+ Update (PUT/PATCH) - Modify existing data
+ Delete (DELETE) - Remove data
+
+Middleware
+ Middleware runs before the final request handler
+ Used for logging, authentication, validation, error handling
+ An Example: A request logger that prints each request
